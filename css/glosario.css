@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    font-size: 20px;
+     }
+
+
+section{
+    width: 1000px;
+    margin: 20px auto;
+    box-sizing: border-box;
+}
+
+.TITULO{
+    text-align: center;
+    color: black;
+    Font-size: 55px;
+    font-family:fantasy;
+    margin: 20px 0px 0px 0px; }
+
+.titulo_tabla{
+    text-align:center;
+    Font-size:50px;
+    color:white;
+background-color: #201B40;
+
+
+
+
+    font-family:fantasy;
+}
+
+.logo{
+    color: white;
+    font-size: 25;
+}
+
+.nav{
+    color:white;
+    padding: 10px 15px 10px 15px;
+}
+
+.lb{
+    font-family: fantasy;
+    text-align:center;
+    font-size: 40px;
+    color:black;
+   background-color: #D9CFCC;
+
+
+    width: 1000px;
+}
+
+.html{
+    width: 1000px;
+    margin: 20px auto;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+tr,td{
+    border: 1px solid black;
+}
+
+.Tlg{
+    font-family: fantasy;
+    font-size: 40px;
+    text-align: center;
+    background-color: #812F33;
+    color: aliceblue;
+}
+
+
+.mno{
+    font-family: fantasy;
+    font-size: 40px;
+    text-align: center;
+    background-color: #705E78;
+    color:aliceblue;
+}
+
+.info{
+    text-align: center;
+}
+
+.listas{
+    text-align: center;
+}
+
+.tpl{
+    font-size: 20px;
+    text-align: center;
+}
+
+.mini{
+    background-color: #DBD6AB;
+}
+
+.ola{
+    font-family: arial;
+}
+
+.eje{
+    
+    font-family: fantasy;
+    font-size: 40px;
+    text-align: center;
+    background-color: #812F33;
+    color: aliceblue;
+    
+}
+
